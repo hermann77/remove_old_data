@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/remove_old_data.iml" filepath="$PROJECT_DIR$/remove_old_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/remove_old_data_main.iml" filepath="$PROJECT_DIR$/.idea/modules/remove_old_data_main.iml" group="remove_old_data" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/remove_old_data_test.iml" filepath="$PROJECT_DIR$/.idea/modules/remove_old_data_test.iml" group="remove_old_data" />
+    </modules>
+  </component>
+</project>
