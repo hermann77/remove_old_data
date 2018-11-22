@@ -1,0 +1,36 @@
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'application'
+
+mainClassName = 'de.schwarz.rod.RODMain'
+
+version = '0.1.0'
+
+
+repositories {
+	mavenCentral()
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+
+task fatJar(type: Jar) {
+    manifest {
+        attributes  'Implementation-Title': 'Remove old data',
+                    'Implementation-Version': version,
+                    'Main-Class': 'de.schwarz.rod.RODMain'
+    }
+    baseName = project.name + '-all'
+    from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar
+}
+
+
+dependencies {
+    // Use JUnit test framework
+    testImplementation 'junit:junit:4.12'
+    compile group: 'mysql', name: 'mysql-connector-java', version: '5.1.21'
+    compile group: 'commons-cli', name: 'commons-cli', version: '1.4'
+}
+

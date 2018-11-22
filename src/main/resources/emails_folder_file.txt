@@ -1,0 +1,433 @@
+From - Tue Jul 03 10:09:20 2018
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from srv-b-exc02.dipf-intern.de (172.20.1.122) by
+ srv-b-exc02.dipf-intern.de (172.20.1.122) with Microsoft SMTP Server (TLS) id
+ 15.0.1367.3 via Mailbox Transport; Mon, 2 Jul 2018 18:37:27 +0200
+Received: from srv-b-exc02.dipf-intern.de (172.20.1.122) by
+ srv-b-exc02.dipf-intern.de (172.20.1.122) with Microsoft SMTP Server (TLS) id
+ 15.0.1367.3; Mon, 2 Jul 2018 18:37:26 +0200
+Received: from BBFMAIL.dipf-intern.de (172.20.1.6) by
+ srv-b-exc02.dipf-intern.de (172.20.1.122) with Microsoft SMTP Server (TLS) id
+ 15.0.1367.3 via Frontend Transport; Mon, 2 Jul 2018 18:37:26 +0200
+Received: from mxtreme.bbf.dipf.de (172.20.1.5) by BBFMAIL.dipf-intern.de
+ (172.20.1.6) with Microsoft SMTP Server id 8.3.485.1; Mon, 2 Jul 2018
+ 18:37:26 +0200
+Received: by mxtreme.bbf.dipf.de (BorderWare Security Platform)	id
+ BB3105317768CFF0; Mon,  2 Jul 2018 17:43:23 +0200 (CEST)
+Date: Mon, 2 Jul 2018 17:43:23 +0200
+From: Mail Delivery System <MAILER-DAEMON@mxtreme.bbf.dipf.de>
+Subject: Undelivered Mail Returned to Sender
+To: <schwarz@dipf.de>
+Auto-Submitted: auto-replied
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="DF102531FB6954DE.1530546203/mxtreme.bbf.dipf.de"
+Content-Transfer-Encoding: 8bit
+Message-ID: <19740415213550.BB3105317768CFF0@mxtreme.bbf.dipf.de>
+Return-Path: <>
+X-MS-Exchange-Organization-Network-Message-Id: 97b4c8ec-a0bf-40cb-0abc-08d5e03a18b2
+X-MS-Exchange-Organization-AuthSource: BBFMAIL.dipf-intern.de
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+--DF102531FB6954DE.1530546203/mxtreme.bbf.dipf.de
+Content-Description: Notification
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="ISO-8859-1"
+
+This is an automated message from the BorderWare Security Platform
+at host mxtreme.bbf.dipf.de.
+
+The message returned below could not be delivered to its=20
+intended
+destinations.
+
+For further assistance, please send mail to=20
+<postmaster@mxtreme.bbf.dipf.de>.
+
+If you do so, please include this problem report. You can=20
+delete
+your own text from the message returned below.
+
+Reason:
+<newsletter@magic-fairies.de>: mail for magic-fairies.de loops back to myse=
+lf
+
+
+
+--DF102531FB6954DE.1530546203/mxtreme.bbf.dipf.de
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mxtreme.bbf.dipf.de
+X-BorderWare-Security-Platform-Queue-ID: DF102531FB6954DE
+X-BorderWare-Security-Platform-Sender: rfc822; schwarz@dipf.de
+Arrival-Date: Mon,  2 Jul 2018 17:43:20 +0200 (CEST)
+
+Final-Recipient: rfc822; newsletter@magic-fairies.de
+Original-Recipient: rfc822;newsletter@magic-fairies.de
+Action: failed
+Status: 5.4.6
+Diagnostic-Code: X-BorderWare-Security-Platform; mail for magic-fairies.de
+    loops back to myself
+
+--DF102531FB6954DE.1530546203/mxtreme.bbf.dipf.de
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <schwarz@dipf.de>
+Date: Mon, 2 Jul 2018 18:37:22 +0200
+Message-Id: <201807021637.w62GbMgB026405@bildungsserver.de>
+To: newsletter@magic-fairies.de
+Subject: LiD-Newsletter  /18
+X-PHP-Originating-Script: 516:email.send.php
+From: newsletter@lesen-in-deutschland.de
+Reply-To: newsletter@lesen-in-deutschland.de
+MIME-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+
+--DF102531FB6954DE.1530546203/mxtreme.bbf.dipf.de--
+
+From - Tue Jul 03 10:09:20 2018
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from srv-b-exc02.dipf-intern.de (172.20.1.122) by
+ srv-b-exc02.dipf-intern.de (172.20.1.122) with Microsoft SMTP Server (TLS) id
+ 15.0.1367.3 via Mailbox Transport; Mon, 2 Jul 2018 18:37:27 +0200
+Received: from srv-b-exc02.dipf-intern.de (172.20.1.122) by
+ srv-b-exc02.dipf-intern.de (172.20.1.122) with Microsoft SMTP Server (TLS) id
+ 15.0.1367.3; Mon, 2 Jul 2018 18:37:27 +0200
+Received: from BBFMAIL.dipf-intern.de (172.20.1.6) by
+ srv-b-exc02.dipf-intern.de (172.20.1.122) with Microsoft SMTP Server (TLS) id
+ 15.0.1367.3 via Frontend Transport; Mon, 2 Jul 2018 18:37:27 +0200
+Received: from mxtreme.bbf.dipf.de (172.20.1.5) by BBFMAIL.dipf-intern.de
+ (172.20.1.6) with Microsoft SMTP Server id 8.3.485.1; Mon, 2 Jul 2018
+ 18:37:26 +0200
+Received: by mxtreme.bbf.dipf.de (BorderWare Security Platform)	id
+ D5F00402B3697988; Mon,  2 Jul 2018 17:43:23 +0200 (CEST)
+Date: Mon, 2 Jul 2018 17:43:23 +0200
+From: Mail Delivery System <MAILER-DAEMON@mxtreme.bbf.dipf.de>
+Subject: Undelivered Mail Returned to Sender
+To: <schwarz@dipf.de>
+Auto-Submitted: auto-replied
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="A6DE0602BF497FCC.1530546203/mxtreme.bbf.dipf.de"
+Content-Transfer-Encoding: 8bit
+Message-ID: <19740415213550.D5F00402B3697988@mxtreme.bbf.dipf.de>
+Return-Path: <>
+X-MS-Exchange-Organization-Network-Message-Id: 3304a488-24f9-4ea7-44a8-08d5e03a18cc
+X-MS-Exchange-Organization-AuthSource: BBFMAIL.dipf-intern.de
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+--A6DE0602BF497FCC.1530546203/mxtreme.bbf.dipf.de
+Content-Description: Notification
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="ISO-8859-1"
+
+This is an automated message from the BorderWare Security Platform
+at host mxtreme.bbf.dipf.de.
+
+The message returned below could not be delivered to its=20
+intended
+destinations.
+
+For further assistance, please send mail to=20
+<postmaster@mxtreme.bbf.dipf.de>.
+
+If you do so, please include this problem report. You can=20
+delete
+your own text from the message returned below.
+
+Reason:
+<gfuehrung@bvl-legasthenie.de>: host mx00.schlund.de[212.227.15.41=
+]
+    said: 550 Requested action not taken: mailbox unavailable (in reply to =
+RCPT
+    TO command)
+
+
+
+--A6DE0602BF497FCC.1530546203/mxtreme.bbf.dipf.de
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mxtreme.bbf.dipf.de
+X-BorderWare-Security-Platform-Queue-ID: A6DE0602BF497FCC
+X-BorderWare-Security-Platform-Sender: rfc822; schwarz@dipf.de
+Arrival-Date: Mon,  2 Jul 2018 17:43:22 +0200 (CEST)
+
+Final-Recipient: rfc822; gfuehrung@bvl-legasthenie.de
+Original-Recipient: rfc822;gfuehrung@bvl-legasthenie.de
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; mx00.schlund.de
+Diagnostic-Code: smtp; 550 Requested action not taken: mailbox unavailable
+
+--A6DE0602BF497FCC.1530546203/mxtreme.bbf.dipf.de
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <schwarz@dipf.de>
+Date: Mon, 2 Jul 2018 18:37:25 +0200
+Message-Id: <201807021637.w62GbPJu026453@bildungsserver.de>
+To: gfuehrung@bvl-legasthenie.de
+Subject: LiD-Newsletter  /18
+X-PHP-Originating-Script: 516:email.send.php
+From: newsletter@lesen-in-deutschland.de
+Reply-To: newsletter@lesen-in-deutschland.de
+MIME-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+
+--A6DE0602BF497FCC.1530546203/mxtreme.bbf.dipf.de--
+
+From - Tue Jul 03 10:09:20 2018
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from srv-b-exc01.dipf-intern.de (172.20.1.121) by
+ srv-b-exc02.dipf-intern.de (172.20.1.122) with Microsoft SMTP Server (TLS) id
+ 15.0.1367.3 via Mailbox Transport; Mon, 2 Jul 2018 18:37:27 +0200
+Received: from srv-b-exc01.dipf-intern.de (172.20.1.121) by
+ srv-b-exc01.dipf-intern.de (172.20.1.121) with Microsoft SMTP Server (TLS) id
+ 15.0.1367.3; Mon, 2 Jul 2018 18:37:27 +0200
+Received: from BBFMAIL.dipf-intern.de (172.20.1.6) by
+ srv-b-exc01.dipf-intern.de (172.20.1.121) with Microsoft SMTP Server (TLS) id
+ 15.0.1367.3 via Frontend Transport; Mon, 2 Jul 2018 18:37:27 +0200
+Received: from mxtreme.bbf.dipf.de (172.20.1.5) by BBFMAIL.dipf-intern.de
+ (172.20.1.6) with Microsoft SMTP Server id 8.3.485.1; Mon, 2 Jul 2018
+ 18:37:27 +0200
+Received: by mxtreme.bbf.dipf.de (BorderWare Security Platform)	id
+ 13241530B75ABF12; Mon,  2 Jul 2018 17:43:24 +0200 (CEST)
+Date: Mon, 2 Jul 2018 17:43:24 +0200
+From: Mail Delivery System <MAILER-DAEMON@mxtreme.bbf.dipf.de>
+Subject: Undelivered Mail Returned to Sender
+To: <schwarz@dipf.de>
+Auto-Submitted: auto-replied
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="0C763630735BD58B.1530546204/mxtreme.bbf.dipf.de"
+Content-Transfer-Encoding: 8bit
+Message-ID: <19740415213550.13241530B75ABF12@mxtreme.bbf.dipf.de>
+Return-Path: <>
+X-MS-Exchange-Organization-Network-Message-Id: 4d450638-290a-48bd-ea82-08d5e03a18e3
+X-MS-Exchange-Organization-AuthSource: BBFMAIL.dipf-intern.de
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+--0C763630735BD58B.1530546204/mxtreme.bbf.dipf.de
+Content-Description: Notification
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="ISO-8859-1"
+
+This is an automated message from the BorderWare Security Platform
+at host mxtreme.bbf.dipf.de.
+
+The message returned below could not be delivered to its=20
+intended
+destinations.
+
+For further assistance, please send mail to=20
+<postmaster@mxtreme.bbf.dipf.de>.
+
+If you do so, please include this problem report. You can=20
+delete
+your own text from the message returned below.
+
+Reason:
+<test.test1@arcor.de>: host mx003.vodafonemail.xion.oxcs.net[157.97.76.17=
+4]
+    said: 550 5.5.0 Unknown Recipient OX_500 (in reply to RCPT TO command)
+
+
+
+--0C763630735BD58B.1530546204/mxtreme.bbf.dipf.de
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mxtreme.bbf.dipf.de
+X-BorderWare-Security-Platform-Queue-ID: 0C763630735BD58B
+X-BorderWare-Security-Platform-Sender: rfc822; schwarz@dipf.de
+Arrival-Date: Mon,  2 Jul 2018 17:43:22 +0200 (CEST)
+
+Final-Recipient: rfc822; test.test1@arcor.de
+Original-Recipient: rfc822;test.test1@arcor.de
+Action: failed
+Status: 5.5.0
+Remote-MTA: dns; mx003.vodafonemail.xion.oxcs.net
+Diagnostic-Code: smtp; 550 5.5.0 Unknown Recipient OX_500
+
+--0C763630735BD58B.1530546204/mxtreme.bbf.dipf.de
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <schwarz@dipf.de>
+Date: Mon, 2 Jul 2018 18:37:25 +0200
+Message-Id: <201807021637.w62GbPV7026441@bildungsserver.de>
+To: test.test1@arcor.de
+Subject: LiD-Newsletter  /18
+X-PHP-Originating-Script: 516:email.send.php
+From: newsletter@lesen-in-deutschland.de
+Reply-To: newsletter@lesen-in-deutschland.de
+MIME-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+
+--0C763630735BD58B.1530546204/mxtreme.bbf.dipf.de--
+
+From - Tue Jul 03 10:09:20 2018
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from srv-b-exc01.dipf-intern.de (172.20.1.121) by
+ srv-b-exc02.dipf-intern.de (172.20.1.122) with Microsoft SMTP Server (TLS) id
+ 15.0.1367.3 via Mailbox Transport; Mon, 2 Jul 2018 18:37:27 +0200
+Received: from srv-b-exc01.dipf-intern.de (172.20.1.121) by
+ srv-b-exc01.dipf-intern.de (172.20.1.121) with Microsoft SMTP Server (TLS) id
+ 15.0.1367.3; Mon, 2 Jul 2018 18:37:27 +0200
+Received: from BBFMAIL.dipf-intern.de (172.20.1.6) by
+ srv-b-exc01.dipf-intern.de (172.20.1.121) with Microsoft SMTP Server (TLS) id
+ 15.0.1367.3 via Frontend Transport; Mon, 2 Jul 2018 18:37:27 +0200
+Received: from mxtreme.bbf.dipf.de (172.20.1.5) by BBFMAIL.dipf-intern.de
+ (172.20.1.6) with Microsoft SMTP Server id 8.3.485.1; Mon, 2 Jul 2018
+ 18:37:27 +0200
+Received: by mxtreme.bbf.dipf.de (BorderWare Security Platform)	id
+ 45E427303F498BF9; Mon,  2 Jul 2018 17:43:24 +0200 (CEST)
+Date: Mon, 2 Jul 2018 17:43:24 +0200
+From: Mail Delivery System <MAILER-DAEMON@mxtreme.bbf.dipf.de>
+Subject: Undelivered Mail Returned to Sender
+To: <schwarz@dipf.de>
+Auto-Submitted: auto-replied
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="1F802400774B1013.1530546204/mxtreme.bbf.dipf.de"
+Content-Transfer-Encoding: 8bit
+Message-ID: <19740415213550.45E427303F498BF9@mxtreme.bbf.dipf.de>
+Return-Path: <>
+X-MS-Exchange-Organization-Network-Message-Id: 73ab1005-dbe3-4101-24a5-08d5e03a18fe
+X-MS-Exchange-Organization-AuthSource: BBFMAIL.dipf-intern.de
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+--1F802400774B1013.1530546204/mxtreme.bbf.dipf.de
+Content-Description: Notification
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="ISO-8859-1"
+
+This is an automated message from the BorderWare Security Platform
+at host mxtreme.bbf.dipf.de.
+
+The message returned below could not be delivered to its=20
+intended
+destinations.
+
+For further assistance, please send mail to=20
+<postmaster@mxtreme.bbf.dipf.de>.
+
+If you do so, please include this problem report. You can=20
+delete
+your own text from the message returned below.
+
+Reason:
+<mesen-test-test@arcor.de>: host mx004.vodafonemail.xion.oxcs.net[157.97.76.175] s=
+aid:
+    550 5.5.0 Unknown Recipient OX_500 (in reply to RCPT TO command)
+
+
+
+--1F802400774B1013.1530546204/mxtreme.bbf.dipf.de
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mxtreme.bbf.dipf.de
+X-BorderWare-Security-Platform-Queue-ID: 1F802400774B1013
+X-BorderWare-Security-Platform-Sender: rfc822; schwarz@dipf.de
+Arrival-Date: Mon,  2 Jul 2018 17:43:21 +0200 (CEST)
+
+Final-Recipient: rfc822; mesen-test-test@arcor.de
+Original-Recipient: rfc822;mesen-test-test@arcor.de
+Action: failed
+Status: 5.5.0
+Remote-MTA: dns; mx004.vodafonemail.xion.oxcs.net
+Diagnostic-Code: smtp; 550 5.5.0 Unknown Recipient OX_500
+
+--1F802400774B1013.1530546204/mxtreme.bbf.dipf.de
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <schwarz@dipf.de>
+Date: Mon, 2 Jul 2018 18:37:24 +0200
+Message-Id: <201807021637.w62GbORu026433@bildungsserver.de>
+To: mesen-test@arcor.de
+Subject: LiD-Newsletter  /18
+X-PHP-Originating-Script: 516:email.send.php
+From: newsletter@lesen-in-deutschland.de
+Reply-To: newsletter@lesen-in-deutschland.de
+MIME-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+
+--1F802400774B1013.1530546204/mxtreme.bbf.dipf.de--
+
+From - Tue Jul 03 10:09:20 2018
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from srv-b-exc02.dipf-intern.de (172.20.1.122) by
+ srv-b-exc02.dipf-intern.de (172.20.1.122) with Microsoft SMTP Server (TLS) id
+ 15.0.1367.3 via Mailbox Transport; Mon, 2 Jul 2018 18:37:28 +0200
+Received: from srv-b-exc02.dipf-intern.de (172.20.1.122) by
+ srv-b-exc02.dipf-intern.de (172.20.1.122) with Microsoft SMTP Server (TLS) id
+ 15.0.1367.3; Mon, 2 Jul 2018 18:37:28 +0200
+Received: from BBFMAIL.dipf-intern.de (172.20.1.6) by
+ srv-b-exc02.dipf-intern.de (172.20.1.122) with Microsoft SMTP Server (TLS) id
+ 15.0.1367.3 via Frontend Transport; Mon, 2 Jul 2018 18:37:28 +0200
+Received: from mxtreme.bbf.dipf.de (172.20.1.5) by BBFMAIL.dipf-intern.de
+ (172.20.1.6) with Microsoft SMTP Server id 8.3.485.1; Mon, 2 Jul 2018
+ 18:37:28 +0200
+Received: by mxtreme.bbf.dipf.de (BorderWare Security Platform)	id
+ A8BF1730774AD321; Mon,  2 Jul 2018 17:43:25 +0200 (CEST)
+Date: Mon, 2 Jul 2018 17:43:25 +0200
+From: Mail Delivery System <MAILER-DAEMON@mxtreme.bbf.dipf.de>
+Subject: Undelivered Mail Returned to Sender
+To: <schwarz@dipf.de>
+Auto-Submitted: auto-replied
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="D58F27017F696C25.1530546205/mxtreme.bbf.dipf.de"
+Content-Transfer-Encoding: 8bit
+Message-ID: <19740415213550.A8BF1730774AD321@mxtreme.bbf.dipf.de>
+Return-Path: <>
+X-MS-Exchange-Organization-Network-Message-Id: be4a1ed1-93c3-4203-62b2-08d5e03a19ac
+X-MS-Exchange-Organization-AuthSource: BBFMAIL.dipf-intern.de
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+--D58F27017F696C25.1530546205/mxtreme.bbf.dipf.de
+Content-Description: Notification
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="ISO-8859-1"
+
+This is an automated message from the BorderWare Security Platform
+at host mxtreme.bbf.dipf.de.
+
+The message returned below could not be delivered to its=20
+intended
+destinations.
+
+For further assistance, please send mail to=20
+<postmaster@mxtreme.bbf.dipf.de>.
+
+If you do so, please include this problem report. You can=20
+delete
+your own text from the message returned below.
+
+Reason:
+<stwaba@yahoo.de>: host mx-eu.mail.am0.yahoodns.net[212.82.101.46] said: 55=
+4
+    delivery error: dd Requested mail action aborted -
+    mta1154.mail.ir2.yahoo.com (in reply to end of DATA command)
+
+
+
